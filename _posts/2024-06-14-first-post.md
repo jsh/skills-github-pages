@@ -8,3 +8,5 @@ Here is a second paragraph of that blog post.
 
 * A bullet point
 * Another bullet point
+
+And here's an added line.
