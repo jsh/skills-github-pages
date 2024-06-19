@@ -14,7 +14,7 @@ food: pizza
 
 <h1>Stag (site): {{ site.stag }}</h1>
 
-<h1>Stag (site): {{ site.ptag }}</h1>
+<h1>Ptag (site): {{ site.ptag }}</h1>
 
 I'll need text, equations, and code in my posts.
 
