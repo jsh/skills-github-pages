@@ -4,7 +4,6 @@ slug: banana
 date: 2024-06-19 11:59:00 -0600
 layout: post
 author: jsh
-permalink: /test-permalink/
 category: experimental
 ---
 
