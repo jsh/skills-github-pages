@@ -12,9 +12,7 @@ food: pizza
 
 <h1>Food: {{ page.food }}</h1>
 
-<h1>Stag (site): {{ site.stag }}</h1>
-
-<h1>Ptag (site): {{ site.ptag }}</h1>
+<h1>Site variables: {{ site.pee }} {{ site.ess }}</h1>
 
 I'll need text, equations, and code in my posts.
 
