@@ -1,6 +1,6 @@
 ---
 title: Experiments
-date: 2024-06-18
+date: 2024-06-19 10:54:00 -0600
 layout: post
 author: jsh
 ---
