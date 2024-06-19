@@ -5,9 +5,12 @@ date: 2024-06-19 11:59:00 -0600
 layout: post
 author: jsh
 category: experimental
+food: pizza
 ---
 
 # An experimental post
+
+<h1>{{ page.food }}</h1>
 
 I'll need text, equations, and code in my posts.
 
