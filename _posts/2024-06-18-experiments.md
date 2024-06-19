@@ -1,9 +1,13 @@
 ---
 title: Experiments
+slug: banana
 date: 2024-06-19 11:59:00 -0600
 layout: post
 author: jsh
+permalink: /test-permalink/
+category: experimental
 ---
+
 # An experimental post
 
 I'll need text, equations, and code in my posts.
@@ -30,6 +34,10 @@ $$
     \end{array} \right)
 \end{aligned}
 $$
+
+
+Which doesn't work. Bummer.
+
 
 Here's code:
 ```bash
