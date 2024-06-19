@@ -1,6 +1,6 @@
 ---
 title: Experiments
-date: 2024-06-19 10:54:00 -0600
+date: 2024-06-19 11:59:00 -0600
 layout: post
 author: jsh
 ---
@@ -11,6 +11,25 @@ I'll need text, equations, and code in my posts.
 Here's an equation bounded by single dollar-signs: $x \geq 0$
 
 Here's an equation bounded by double dollar-signs: $$x \lt 1$$
+
+And here's a math block copied straight from the Kramdown documentation:
+
+$$
+\begin{aligned}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{aligned}
+$$
 
 Here's code:
 ```bash
