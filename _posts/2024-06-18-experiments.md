@@ -55,8 +55,20 @@ exit 0
 
 I'll experiment with variables a bit.
 
-<h1>Food: {{ page.food }}</h1>
+Food: {{ page.food }}
 
-<h2>Site variables: {{ site.pee }} {{ site.ess }}</h2>
+Snail: {{ site.snail }}
 
-<h3>Wonder what this does.</h3>
+And with headers.
+
+# First-level MD header
+<h1>First-level HTML header.</h1>
+
+## Second-level MD header
+<h2>Second-level HTML header</h2>
+
+### Third-level MD header
+<h3>Third-level HTML header</h3>
+
+#### Fourth-level MD header
+<h4>Fourth-level HTML header</h4>
