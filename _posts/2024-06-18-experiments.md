@@ -55,5 +55,8 @@ exit 0
 
 I'll experiment with variables a bit.
 
-<h3>Food: {{ page.food }}</h3>
-<h4>Site variables: {{ site.pee }} {{ site.ess }}</h4>
+<h1>Food: {{ page.food }}</h1>
+
+<h2>Site variables: {{ site.pee }} {{ site.ess }}</h2>
+
+<h3>Wonder what this does.</h3>
