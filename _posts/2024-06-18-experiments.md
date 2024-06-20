@@ -56,7 +56,9 @@ exit 0
 I'll experiment with variables a bit.
 
 Food: {{ page.food }}
+
 Snail: {{ site.snail }}
+
 BaseURL: {{ site.baseurl }}
 
 And with headers.
@@ -65,4 +67,5 @@ And with headers.
 ## Second-level MD header
 ### Third-level MD header
 #### Fourth-level MD header
-You can insert HTML: <h4>Fourth-level HTML header</h4>
+You can insert HTML, but it must begin a line.
+<h4>Fourth-level HTML header</h4>
