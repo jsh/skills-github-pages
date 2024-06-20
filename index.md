@@ -11,4 +11,4 @@ analogous to what you might see in a README.
 
 ***This should be both bold and italicized***
 
-{{ site.avatar }}
+<img src="{{ site.avatar }" alt="A sample avatar"> 
