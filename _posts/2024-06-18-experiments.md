@@ -10,9 +10,6 @@ food: pizza
 
 # An experimental post
 
-<h1>Food: {{ page.food }}</h1>
-
-<h1>Site variables: {{ site.pee }} {{ site.ess }}</h1>
 
 I'll need text, equations, and code in my posts.
 
@@ -55,3 +52,8 @@ if [ $# -gt 0 ]; then
 fi
 exit 0
 ```
+
+I'll experiment with variables a bit.
+
+<h3>Food: {{ page.food }}</h3>
+<h4>Site variables: {{ site.pee }} {{ site.ess }}</h4>
