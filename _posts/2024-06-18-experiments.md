@@ -64,12 +64,3 @@ Food: {{ page.food }}
 Snail: {{ site.snail }}
 
 BaseURL: {{ site.baseurl }}
-
-And with headers.
-
-# First-level MD header
-## Second-level MD header
-### Third-level MD header
-#### Fourth-level MD header
-You can insert HTML, but it must begin a line.
-<h4>Fourth-level HTML header</h4>
