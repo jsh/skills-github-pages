@@ -8,6 +8,10 @@ category: experimental
 food: pizza
 ---
 
+This post will contain
+a variety of ever-changing experiments,
+as I read about and explore Jekyll.
+
 # An experimental post
 
 
