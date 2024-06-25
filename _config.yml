@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jsh/minima
 title: My Title
 author: Jeffrey S. Haemer
 description: A test for GitHub pages as a blog site.
